@@ -33,7 +33,7 @@ def get_court(case_number):
 
 def generate_header(respondent, case_number):
     plaintiff = {
-        "name": "Гусакова Ольга Ивановна",
+        "name": "Гусякова Ольга Ивановна",
         "inn": "123456789012",
         "ogrnip": "123456789012345",
         "address": "г. Москва, ул. Своя, д. 1"
